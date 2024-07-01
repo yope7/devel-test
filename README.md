@@ -1,5 +1,6 @@
 # flow_of_webservice
-Githubのissue機能等を用いた生産性向上に関する検証用
+Githubのissue機能等を用いた生産性向上に関する検証用（Githubの練習）
+
 
 ## 概要
 1. 最も簡単なWebサービスを用意する
